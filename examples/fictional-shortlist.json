@@ -1,0 +1,49 @@
+{
+  "mode": "fictional",
+  "profile_id": "FICTIONAL-TEST",
+  "as_of": "2026-10-27T18:00:00+00:00",
+  "hard_constraints": [
+    "location",
+    "pay",
+    "hours"
+  ],
+  "records": [
+    {
+      "id": "capture-1",
+      "employer": "Fictional Cedar Tools",
+      "title": "Customer Onboarding Coordinator",
+      "canonical_url": "https://jobs.example.invalid/jobs/1",
+      "source": {
+        "kind": "fictional",
+        "url": "https://jobs.example.invalid/jobs/1",
+        "status": "present",
+        "checked_at": "2026-10-27T17:00:00Z",
+        "evidence": "Fictional source for an offline test; not a real vacancy."
+      },
+      "constraint_checks": {
+        "location": {
+          "status": "met",
+          "reason": "Explicit fictional supplied facts meet the declared constraint."
+        },
+        "pay": {
+          "status": "met",
+          "reason": "Explicit fictional supplied facts meet the declared constraint."
+        },
+        "hours": {
+          "status": "met",
+          "reason": "Explicit fictional supplied facts meet the declared constraint."
+        }
+      },
+      "requirements": [
+        {
+          "criterion": "customer onboarding",
+          "importance": "essential",
+          "match": "supported",
+          "candidate_evidence": "Fictional candidate coordinated onboarding.",
+          "job_evidence": "Fictional role explicitly requests onboarding."
+        }
+      ],
+      "conflicts": []
+    }
+  ]
+}
