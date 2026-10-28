@@ -1,0 +1,53 @@
+Checked: 28 October 2026 (UK time). I worked only from the text you pasted. I couldn't open any of the six links, and you've told me the names and figures are made up, so none of these is a confirmed live opening. Everything below judges the advert text, not whether the job exists or is still open.
+
+Short answer: apply to Brindle & Oak. Ask Kestrel Home a couple of questions first. Find Halden Group's full advert before you decide on it. Skip the other three.
+
+### Suitable leads: worth checking
+
+- **Brindle & Oak Interiors: Order Coordinator**, https://careers.brindleandoak.example/jobs/1142. Trafford Park, Manchester. Office-based, Monday to Friday, 37.5 hours a week. £28,000 to £30,000 a year, so even the bottom of the range clears your £27,000.
+  **Why it may suit you:** all three essentials match what you already do. You coordinate stock and deal with order and returns emails. You use Excel to VLOOKUP and pivot-table level. You write to customers every day.
+  **Before applying:** they'd like experience with a warehouse management system, and you haven't mentioned using one. It's desirable, not essential, so it shouldn't stop you. In your application, mention how you run your stock spreadsheets. Also check the advert is still on their own careers page.
+
+### Conditional opportunities
+
+- **Kestrel Home: Customer Experience Advisor**, https://kestrelhome.example/jobs/cx-advisor. Remote (UK), full-time. Your four years of order and returns emails is well past their one-year minimum, and homewares is the extra they'd like. Two essentials are still open:
+  1. Pay. "Competitive" tells you nothing, and you can't go below £27,000. Ask for the salary range before you spend time on an application.
+  2. Zendesk "or a similar ticketing system" is essential. You haven't said whether you've used one. If your customer emails go through a shared inbox or ticketing tool at work, name it. If it's a plain email inbox, ask whether they'd accept that.
+  Also confirm that "remote" means no office days.
+
+### Unverified listings
+
+- **Halden Group: Operations Assistant**, https://www.jobsboard.example/listing/88213. You only saw a short jobs-board listing (Manchester, £27,000 to £29,000), and the employer's own page wouldn't load. We don't know the hours, duties, requirements or whether it's still open. Pay and location look fine on the face of it, but find the advert on Halden Group's own careers page before you apply.
+
+### Not worth applying
+
+- **Northgate Parcel Solutions: Warehouse Team Leader.** A counterbalance forklift licence is essential and you've told me you don't have one. It also runs rotating shifts including nights.
+- **Larkfield Logistics: Stock Control Administrator.** It's in Leeds, on site five days a week. That's neither Manchester nor remote.
+- **Pennine Supplies: Inventory Planner.** It's 22.5 hours a week, not full-time. The £31,000 is the full-time equivalent; for 22.5 of 37.5 hours you'd actually be paid about £18,600 a year. It fails both your hours and your pay floor.
+
+### Detailed checks
+
+Your hard limits: full-time; Manchester or fully remote within the UK; at least £27,000 a year in actual pay. Right to work in the UK: you have it, and no advert raised it.
+
+| Advert | Location | Hours | Pay | Essential requirements against your experience | Result |
+|---|---|---|---|---|---|
+| 1. Brindle & Oak, Order Coordinator (job 1142) | Trafford Park, office: pass | 37.5 hrs, Mon to Fri: pass | £28,000 to £30,000 a year: pass | Coordinating orders or stock: supported. Confident with Excel: supported (VLOOKUPs, pivot tables). Written communication with customers: supported (order and returns emails). Desirable, warehouse management system: not mentioned by you | Suitable |
+| 2. Northgate, Warehouse Team Leader (wtl-0931) | Salford: pass | 40 hrs, rotating incl. nights: pass (nights weren't one of your limits, but worth knowing) | £29,500: pass | Forklift licence: gap (you have none). Leading a warehouse team: partial (you plan rotas for six, but haven't said you manage them) | Excluded: essential gap |
+| 3. Kestrel Home, CX Advisor (no posting ID in link) | Remote (UK): pass; office days not stated | Full-time: pass | "Competitive": unknown | A year or more of email customer queries: supported (four years). Zendesk or similar: unknown. Desirable, homewares or retail: supported | Conditional |
+| 4. Larkfield, Stock Control Administrator (sca-2207) | Leeds, on site five days: fail | Full-time: pass | £30,000: pass | Advanced Excel: probably supported (they don't define "advanced"). Stock counts and reconciliations: unknown, you haven't mentioned them | Excluded: location |
+| 5. Pennine, Inventory Planner (no posting ID in link) | Remote (UK): pass | 22.5 hrs: fail | £31,000 full-time equivalent, about £18,600 actual: fail | Planning stock levels: partial (you keep stock records up to date; planning levels isn't mentioned). Strong Excel: supported | Excluded: hours and pay |
+| 6. Halden Group, Operations Assistant (jobs-board listing 88213) | Manchester: pass, from the listing only | Unknown | £27,000 to £29,000: pass, from the listing only | Not shown | Unverified |
+
+### How I checked
+
+- **Source:** only the text you pasted. I didn't open any link, so I haven't confirmed any job is real or still open. None of the adverts gave a posting or closing date. Halden's details come from a jobs-board summary, not the employer.
+- **Requirements:** I checked each essential requirement on its own against what you told me, and marked it supported, partial, gap or unknown. "Gap" only where you've said you lack something (the forklift licence). "Unknown" where you haven't said either way (Zendesk, stock counts, a warehouse management system). Desirable requirements were noted but never used to reject a job.
+- **Pay:** I used actual pay for the actual hours, not the headline figure. Pennine: £31,000 × 22.5 ÷ 37.5 = £18,600. I treated "competitive" as unknown, not as meeting your floor.
+- **Things you lack that didn't matter:** none of the six asked for a degree or SQL, so those didn't count against you.
+- **Duplicates:** none. All six are different employers.
+- **Tools:** I have a small checking script for this kind of record, but I didn't run it here; I applied the same rules by hand. Even when it runs, it only checks that the records are consistent. It can't confirm a job is real or right for you.
+- **Your details:** I haven't saved anything about you.
+
+### Next step
+
+Check Brindle & Oak's own careers page to confirm the Order Coordinator job is still open, then apply. Whether to apply is your call.

@@ -1,0 +1,92 @@
+{
+ "k610336": {
+  "scenario": "warehouse",
+  "arm": "current",
+  "run": 3
+ },
+ "k641119": {
+  "scenario": "warehouse",
+  "arm": "current",
+  "run": 1
+ },
+ "k489716": {
+  "scenario": "warehouse-detail",
+  "arm": "current",
+  "run": 3
+ },
+ "k957595": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 1
+ },
+ "k378985": {
+  "scenario": "school-office",
+  "arm": "fixed",
+  "run": 3
+ },
+ "k914045": {
+  "scenario": "warehouse-detail",
+  "arm": "fixed",
+  "run": 2
+ },
+ "k108307": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 2
+ },
+ "k573379": {
+  "scenario": "warehouse-detail",
+  "arm": "fixed",
+  "run": 1
+ },
+ "k665648": {
+  "scenario": "school-office",
+  "arm": "fixed",
+  "run": 2
+ },
+ "k395040": {
+  "scenario": "warehouse-detail",
+  "arm": "fixed",
+  "run": 3
+ },
+ "k151723": {
+  "scenario": "warehouse",
+  "arm": "current",
+  "run": 2
+ },
+ "k949987": {
+  "scenario": "warehouse",
+  "arm": "fixed",
+  "run": 1
+ },
+ "k580752": {
+  "scenario": "warehouse-detail",
+  "arm": "current",
+  "run": 2
+ },
+ "k821134": {
+  "scenario": "school-office",
+  "arm": "fixed",
+  "run": 1
+ },
+ "k140148": {
+  "scenario": "warehouse",
+  "arm": "fixed",
+  "run": 3
+ },
+ "k686917": {
+  "scenario": "warehouse-detail",
+  "arm": "current",
+  "run": 1
+ },
+ "k319797": {
+  "scenario": "warehouse",
+  "arm": "fixed",
+  "run": 2
+ },
+ "k444083": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 3
+ }
+}
