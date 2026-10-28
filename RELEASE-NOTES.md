@@ -1,14 +1,16 @@
-# Buyer experience candidate 2.0.1-rc.2
+# Release notes
 
-Derived from the preserved 2.0.1-rc.1 release candidate. CV/plain-language intake and agent-owned technical preparation are explicit. Default results are a compact shortlist with suitable, conditional and unverified sections; detailed checks are available on request. Questions are limited to missing search-critical facts. Browsing and attachment failures are explained plainly.
+## 2.1.0 (28 October 2026)
 
-Python helper, its 36 unit tests, JSON example and record contract are unchanged. Source verification, requirements, salary, geography and duplicate gates remain in force. No fictional candidate or vacancy has been added to the reusable instructions. The prior release notes remain preserved inside the original release-candidate archive.
+- **One name.** The skill is now Find My Next Job (`find-my-next-job`), the same as the repository. It was Job Match Finder (`job-match-finder`).
+- **Works when pasted into a chat.** The shortlist template is now inside `SKILL.md`, so a pasted copy follows it without opening another file. `references/shortlist-template.md` is removed, as it would have been a second copy. Tested in [evidence/paste-test](evidence/paste-test/results.md).
+- **Free, and nothing more.** I removed the wording about selling the skill. It is MIT-licensed.
+- **Made-up example.** The example in `examples/first-interaction.md` named real employers and linked to real job pages. It is now a reply from the paste test, with made-up employers.
+- **Plain README.** Rewritten for the person looking for a job, with the paste route first.
+- **Removed `BUYER-EXPERIENCE-NOTES.md`.** It described test records that were never published in this repository, so nobody could check them.
 
-Run host-side checks from the extracted root when maintaining the package:
+The checker in `scripts/preflight.py`, its 36 tests, `references/search-and-verification.md`, `references/record-contract.md` and `examples/fictional-shortlist.json` are unchanged.
 
-```sh
-python3 -m unittest discover -s tests -p 'test_*.py' -v
-python3 scripts/preflight.py --input examples/fictional-shortlist.json
-```
+## 2.0.1-rc.2 and earlier
 
-These are maintainer/agent commands, not customer steps. Current run results and the fresh fictional interaction are recorded in the accompanying BUYER-EXPERIENCE-NOTES.md and validation evidence. They do not establish Agensi compatibility, human sign-off or willingness to pay. Nothing has been published.
+Development versions. Their test records were not published here, so I make no claims from them.
