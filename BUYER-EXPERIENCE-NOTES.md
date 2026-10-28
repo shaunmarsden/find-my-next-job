@@ -1,4 +1,4 @@
-# Buyer experience notes — 2.0.1-rc.2
+# Buyer experience notes: 2.0.1-rc.2
 
 This is a narrow onboarding/presentation adjustment to the existing release candidate. It is not a new search engine or an approved paid release. The proposed £7 price has not been validated by this work.
 

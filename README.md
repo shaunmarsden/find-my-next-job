@@ -6,9 +6,9 @@ This repository contains the source of the **Job Match Finder** skill, whose int
 
 ## Quick start
 
-1. Download the repository ZIP or the skill archive.
+1. Download the repository ZIP (the green **Code** button, then **Download ZIP**).
 2. Install the files in an AI agent that supports `SKILL.md` skills and referenced resources. Keep the directory structure intact.
-3. Ask: **“Help me find my next job. Here is my work history. I live in Manchester and want full-time work.”**
+3. Ask: **"Help me find my next job. Here is my work history. I live in Manchester and want full-time work."**
 4. Provide location and other non-negotiable constraints if not already supplied. The agent should return promising leads, conditional matches and unverified vacancies separately.
 
 You don't need to create JSON or run Python. A compatible agent handles the workflow.
