@@ -10,9 +10,9 @@ Use Job Match Finder to find up to three jobs I could realistically consider. I'
 
 Your strongest starting points are warehouse administration, order coordination and customer service. I haven't found a fully cleared match in this search. These opportunities need checks first:
 
-- **[Striqr — Customer Service](https://striqr.com/careers/customer-service): conditional.** UK remote, full-time; £25,000–£30,000 advertised, pay period unstated. Customer emails and checklists are relevant. Confirm the account/billing troubleshooting and support-tool experience needed at entry.
-- **[FULFIL.X — Customer Service / Account Manager](https://fulfilx.co.uk/careers/customer-service): conditional.** Order enquiries and warehouse coordination overlap. Confirm CRM requirements, occasional on-camera work and the exact site.
-- **[FULFIL.X — Fulfilment Operative](https://fulfilx.co.uk/careers/fulfilment-operative): conditional.** Warehouse experience is relevant. Check site, pay, shifts and whether hands-on picking/packing suits you.
+- **[Striqr: Customer Service](https://striqr.com/careers/customer-service): conditional.** UK remote, full-time; £25,000 to £30,000 advertised, pay period unstated. Customer emails and checklists are relevant. Confirm the account/billing troubleshooting and support-tool experience needed at entry.
+- **[FULFIL.X: Customer Service / Account Manager](https://fulfilx.co.uk/careers/customer-service): conditional.** Order enquiries and warehouse coordination overlap. Confirm CRM requirements, occasional on-camera work and the exact site.
+- **[FULFIL.X: Fulfilment Operative](https://fulfilx.co.uk/careers/fulfilment-operative): conditional.** Warehouse experience is relevant. Check site, pay, shifts and whether hands-on picking/packing suits you.
 
 Three other original descriptions could not be read, so they are not application recommendations. Would you prefer customer support or hands-on warehouse work? I can show the detailed source and requirement checks if you want.
 
