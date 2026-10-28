@@ -1,0 +1,34 @@
+I can't open employer pages from here, so I've worked only from the adverts you copied in. I can't confirm that any of these jobs is still open today. Before you apply, open each link to check it's still live and that the details match.
+
+You've given me what I need: full-time, Manchester or fully remote in the UK, at least £27,000 a year, and the right to work in the UK. I've treated all four as fixed.
+
+**Worth checking**
+
+**1. Brindle & Oak Interiors, Order Coordinator** (careers.brindleandoak.example/jobs/1142)
+This is the best fit by some way. It's in Manchester (Trafford Park), Monday to Friday, 37.5 hours, and pays £28,000 to £30,000, which is above your floor. Your experience matches all three essentials:
+- Coordinating customer orders or stock: four years coordinating a homewares warehouse and keeping its stock spreadsheets up to date.
+- Confident with Excel: VLOOKUPs and pivot tables.
+- Clear written communication with customers: you answer customer emails about orders and returns.
+
+The only gap is the desirable one, a warehouse management system. You didn't mention using one. It isn't essential, so it shouldn't rule you out. If you've used any stock or order system besides Excel, say so in your application.
+
+**Worth checking once two questions are answered**
+
+**3. Kestrel Home, Customer Experience Advisor** (kestrelhome.example/jobs/cx-advisor)
+It's fully remote in the UK and full-time. You easily meet the first essential, with four years of answering customer emails about orders and returns, and your homewares background matches their desirable.
+- Pay: the advert just says "competitive", so I can't tell whether it reaches £27,000. Check the employer's page or ask them before you put much time into it.
+- Ticketing system: they want Zendesk "or a similar ticketing system". What do you use to answer customer emails at work? A helpdesk tool such as Zendesk, Freshdesk, Gorgias or Help Scout would count. If it's a shared Outlook or Gmail inbox, you'd only partly meet this one.
+
+**Not verified**
+
+**6. Halden Group, Operations Assistant** (jobsboard.example/listing/88213)
+All I have is a short jobs-board listing. The employer's page wouldn't load, and there are no duties or requirements to compare with your experience. The location and pay (Manchester, £27,000 to £29,000) look fine. I can't say whether it's full-time, or whether it's a real, open vacancy. Search for it on Halden Group's own careers site. If you find it, send me the full advert and I'll check it.
+
+**Not for you, based on what you told me**
+- **2. Northgate Parcel Solutions, Warehouse Team Leader**: a counterbalance forklift licence is essential, and you don't have one.
+- **4. Larkfield Logistics, Stock Control Administrator**: it's on site in Leeds five days a week, which is outside Manchester and isn't remote.
+- **5. Pennine Supplies, Inventory Planner**: it's 22.5 hours a week, not full-time. The £31,000 is the full-time equivalent, so you'd actually earn about £18,600 a year (£31,000 × 22.5 ÷ 37.5), well under your floor.
+
+I did these checks by hand. The automated check that comes with this skill was not run.
+
+**Next step:** open the Brindle & Oak link today, check the job is still open, and apply. If you tell me which tool you use for customer emails, I'll tell you how well you fit the Kestrel Home role. If you'd like, I can also search for more jobs like these, such as order coordinator, stock or inventory administrator, and customer service roles in Manchester or remote in the UK. To do that properly I'd need a host that can browse live employer pages.
