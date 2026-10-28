@@ -1,0 +1,36 @@
+A quick note before the shortlist: I can't open employer pages from here, so I haven't confirmed that any of these jobs is still open. I've judged each one only on the advert text you pasted, checked against what you told me on 28 October 2026. I also haven't run the automated preflight check. I applied the same rules by hand.
+
+Your hard limits, as I've understood them: full-time, Manchester or fully remote within the UK, at least £27,000 a year actual pay, and UK right to work (which you have).
+
+**Worth checking: apply if it's still open**
+
+1. Brindle & Oak Interiors, Order Coordinator
+https://careers.brindleandoak.example/jobs/1142
+Trafford Park, Manchester, office-based, Monday to Friday, 37.5 hours, £28,000 to £30,000 a year. That meets every limit you gave me.
+Why it fits: you meet all three essentials from your own experience. You coordinate orders and stock, you use Excel with VLOOKUPs and pivot tables, and you write to customers about orders and returns every day.
+Gap: they'd like experience with a warehouse management system. You didn't mention one. That's only desirable, so it won't rule you out, but if your warehouse uses any stock system besides Excel, name it in your application.
+
+**Possible, but two questions first**
+
+3. Kestrel Home, Customer Experience Advisor
+https://kestrelhome.example/jobs/cx-advisor
+Remote (UK), full-time. You easily meet the essential of a year handling customer email queries, and your homewares background matches their desirable.
+Unresolved:
+- The salary only says "competitive", so I can't tell if it reaches your £27,000. Ask them or check the full advert before you put time into it.
+- They need Zendesk "or a similar ticketing system". Did you answer customer emails through a helpdesk or ticketing tool, or through a normal inbox? If it was a normal inbox, this is a gap in an essential requirement, not a near miss.
+
+**Not for you, based on what you told me**
+
+2. Northgate Parcel Solutions, Warehouse Team Leader: a counterbalance forklift licence is essential, and you don't have one.
+4. Larkfield Logistics, Stock Control Administrator: it's on site in Leeds five days a week, which is outside Manchester and isn't remote.
+5. Pennine Supplies, Inventory Planner: it's 22.5 hours a week, not full-time. The £31,000 is the full-time equivalent figure, so you'd actually be paid about £18,600 a year, well under your £27,000.
+
+**Unverified listing**
+
+6. Halden Group, Operations Assistant
+https://www.jobsboard.example/listing/88213
+The pay (£27,000 to £29,000) and the Manchester location match your limits, but a short jobs-board listing isn't enough to go on. I don't know the hours, the duties or the essential requirements, and the employer's own page didn't load. Look for this role on Halden Group's own careers page. If you find it there, paste in the full advert and I'll check it the same way.
+
+**One next step:** open the Brindle & Oak link to confirm it's still live, and if it is, apply there first.
+
+I can also show you the requirement-by-requirement checks for each advert if you'd like them.
