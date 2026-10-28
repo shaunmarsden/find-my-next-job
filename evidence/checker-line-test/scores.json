@@ -1,0 +1,278 @@
+{
+ "k108307": {
+  "scenario": "school-office",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k140148": {
+  "scenario": "warehouse",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k151723": {
+  "scenario": "warehouse",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k319797": {
+  "scenario": "warehouse",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k378985": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   0,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k444083": {
+  "scenario": "school-office",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k610336": {
+  "scenario": "warehouse",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k641119": {
+  "scenario": "warehouse",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k665648": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   0,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k821134": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k949987": {
+  "scenario": "warehouse",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k957595": {
+  "scenario": "school-office",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "k395040": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "k489716": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "k573379": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "k580752": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "k686917": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "k914045": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ }
+}

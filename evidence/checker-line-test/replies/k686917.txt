@@ -1,0 +1,86 @@
+Checked: 28 October 2026. I worked only from the six adverts you pasted. I didn't open any of the links, and you've said the names and figures are made up, so none of these is a verified live opening. I can't confirm that any of them is still open or that the employer's own page matches what you copied.
+
+Your hard requirements, as I've taken them: full-time hours; Manchester, or fully remote within the UK; at least £27,000 a year in actual pay; right to work in the UK (you have it). If any of these is more flexible than I've assumed, tell me and I'll recheck.
+
+### Suitable leads: worth checking
+
+- **Brindle & Oak Interiors: Order Coordinator**, https://careers.brindleandoak.example/jobs/1142. Trafford Park, Manchester, office-based, Monday to Friday, 37.5 hours a week, £28,000 to £30,000 a year.
+  **Why it may suit you:** all three essentials match what you already do. You coordinate stock and handle customer order and returns emails, you use Excel to VLOOKUP and pivot-table level, and you write to customers every day. The pay floor sits above your £27,000 minimum.
+  **Before applying:** the advert would like experience with a warehouse management system. That's a "desirable" item, so it won't rule you out. Does your warehouse use any stock or order system alongside your spreadsheets? If so, name it on your CV.
+
+### Conditional opportunities
+
+- **Kestrel Home: Customer Experience Advisor**, https://kestrelhome.example/jobs/cx-advisor. Remote (UK), full-time. Promising because you have four years of answering customer emails (the essential is one year) and homewares experience (desirable). Two things are still open:
+  1. Pay. "Competitive" gives no figure, so I can't tell whether it reaches £27,000. Ask the employer for the salary range before you spend time on an application.
+  2. Ticketing system. Using Zendesk "or a similar ticketing system" is essential. Do you answer customer emails through a helpdesk tool (Zendesk, Freshdesk, Gorgias or similar), or straight from a shared inbox? A plain inbox probably doesn't count, and I won't treat it as if it does.
+
+### Unverified listings
+
+- **Halden Group: Operations Assistant**, https://www.jobsboard.example/listing/88213. You saw this only as a short jobs-board listing, and the employer's own page didn't load. Manchester and £27,000 to £29,000 fit your terms on paper. But the listing gives no hours, no requirements and no employer link, and I can't tell whether £27,000 is the full-time annual salary or a pro rata figure. Find the advert on Halden Group's own careers page, then check the hours and the essential criteria.
+
+### Not worth applying for
+
+- **Northgate Parcel Solutions: Warehouse Team Leader.** A counterbalance forklift licence is essential, and you don't have one.
+- **Larkfield Logistics: Stock Control Administrator.** It's in Leeds, on site five days a week, which is outside Manchester and not remote.
+- **Pennine Supplies: Inventory Planner.** It's 22.5 hours a week, not full-time. The £31,000 is the full-time-equivalent figure. At 22.5 of 37.5 hours you'd actually earn about £18,600 a year (£31,000 × 22.5 ÷ 37.5), well under your £27,000 floor.
+
+### How I checked
+
+1. I read each advert exactly as you pasted it. I didn't browse to any link, search for other copies or contact any employer. So everything below reflects your copy of each advert, not a current employer page.
+2. I checked your four hard requirements first (hours, location, pay, right to work). Pay had to be a real annual figure for the hours offered, so I converted the pro rata figure into what you'd actually be paid. A pay range only counted if its lowest point met your minimum.
+3. I then checked each essential criterion separately against what you told me about your work. I marked each one as **supported** (you described doing it), **partial** (related, but not quite what's asked), **unknown** (you didn't mention it either way) or **gap** (you said you don't have it). A job only reached "suitable" if every hard requirement passed and every essential was supported.
+4. I kept "desirable" items separate. They can be worth mentioning, but they don't rule a job in or out.
+5. I didn't run the automated preflight check. I applied the same rules by hand. Even that check only tests the logic of the notes. It can't prove a job is real, open or right for you.
+
+### Detailed checks
+
+**1. Brindle & Oak, Order Coordinator: suitable lead**
+- Full-time: pass (37.5 hours, Monday to Friday)
+- Location: pass (Trafford Park, Manchester, office-based)
+- Pay: pass (£28,000 minimum, annual, for those hours)
+- Essential, coordinating customer orders or stock: supported (stock spreadsheets, customer order and returns emails, four years coordinating the warehouse)
+- Essential, confident with Excel: supported (VLOOKUPs, pivot tables)
+- Essential, clear written communication with customers: supported (customer emails, shift handover checklists)
+- Desirable, warehouse management system: unknown (you haven't mentioned one)
+
+**2. Northgate Parcel Solutions, Warehouse Team Leader: excluded**
+- Full-time: pass (40 hours, but rotating shifts including nights; you didn't rule these out, but it's worth knowing)
+- Location: pass (Salford, Manchester)
+- Pay: pass (£29,500)
+- Essential, counterbalance forklift licence: gap (you said you don't have one), so excluded
+- Essential, leading a warehouse team: partial (you plan rotas for six people, but you haven't said whether you supervise them)
+
+**3. Kestrel Home, Customer Experience Advisor: conditional**
+- Full-time: pass
+- Location: pass (remote, UK)
+- Pay: unknown ("competitive", no figure)
+- Essential, a year or more handling customer queries by email: supported (four years)
+- Essential, Zendesk or a similar ticketing system: unknown
+- Desirable, homewares or retail: supported
+
+**4. Larkfield Logistics, Stock Control Administrator: excluded**
+- Full-time: pass
+- Location: fail (Leeds, on site five days a week), so excluded
+- Pay: pass (£30,000)
+- Essential, advanced Excel: partial ("advanced" isn't defined; VLOOKUPs and pivot tables may or may not be enough)
+- Essential, stock counts and reconciliations: unknown (you keep stock spreadsheets but haven't mentioned counts)
+
+**5. Pennine Supplies, Inventory Planner: excluded**
+- Full-time: fail (22.5 hours a week)
+- Location: pass (remote, UK)
+- Pay: fail (£31,000 is the full-time-equivalent figure; actual pay is about £18,600 a year)
+- Essential, planning stock levels: partial (you maintain stock records; planning levels isn't stated)
+- Essential, strong Excel: supported
+
+**6. Halden Group, Operations Assistant: unverified**
+- Source: jobs-board listing only; the employer's page didn't load
+- Full-time: unknown
+- Location: pass on paper (Manchester)
+- Pay: pass on paper (£27,000 to £29,000), but the basis and hours are unknown
+- Essential criteria: unknown (none given)
+
+I haven't saved your details or these notes anywhere. They're in this conversation only.
+
+### Next step
+
+Brindle & Oak is the one to go for now. Before you apply, open its link to check it's still live and matches what you copied. While you're doing that, tell me whether you use a helpdesk tool for customer emails. That answer decides whether Kestrel Home is worth chasing.
