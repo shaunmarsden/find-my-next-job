@@ -1,5 +1,11 @@
 # Release notes
 
+## 2.2.0 (29 October 2026)
+
+- **No more talk of "the automated check".** The skill no longer tells people that the optional checker was not run, unless they ask how the checks were done.
+- **Holds your limits.** Once a job fails one of your limits, the skill no longer calls it worth a look if you would relax that limit. It asks whether the limit is firm instead.
+- Tested together in [evidence/combined-test](evidence/combined-test/results.md). An earlier test of the first change on its own is in [evidence/checker-line-test](evidence/checker-line-test/results.md); it failed my sorting guard, so I did not ship it.
+
 ## 2.1.0 (28 October 2026)
 
 - **One name.** The skill is now Find My Next Job (`find-my-next-job`), the same as the repository. It was Job Match Finder (`job-match-finder`).

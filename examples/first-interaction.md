@@ -2,7 +2,7 @@
 
 This is one reply from my [paste test](../evidence/paste-test/results.md), copied word for word (reply `j237102`). The skill was pasted into a chat, followed by the jobseeker's message below. The jobseeker, the employers, the adverts and the links are all made up.
 
-The reply mentions "the automated check". That is the optional checker in `scripts/`, which cannot run in a chat. Eleven of the twelve skill replies in the test said something like this, and it means nothing to a jobseeker; it is on my list to fix.
+The reply mentions "the automated check". That is the optional checker in `scripts/`, which cannot run in a chat. Eleven of the twelve skill replies in that test said something like this, and it means nothing to a jobseeker. Version 2.2.0 of the skill no longer says it unless you ask how the checks were done (see the [combined test](../evidence/combined-test/results.md)).
 
 ## The jobseeker's message
 
