@@ -2,7 +2,7 @@
 name: find-my-next-job
 description: Find current public vacancies and build a source-linked shortlist against a jobseeker's documented experience and hard constraints. Use for job discovery and screening, not CV writing or automated applications.
 metadata:
-  version: "2.1.0"
+  version: "2.2.0"
 ---
 
 # Find My Next Job
@@ -33,11 +33,11 @@ The agent handles all technical preparation. Never require the customer to creat
 python3 scripts/preflight.py --input records.json
 ```
 
-The helper requires every declared hard constraint to have a check, blocks annotated gaps/unknowns, reconciles explicit identities and holds stale/conflicting observations. It **does not** browse, validate the truth/completeness of annotations, calculate salary, or assess natural-language fit. Never describe its exit 0 as proof the jobs are real or suitable. Without Python, apply the same gate manually and disclose that automated preflight was not run.
+The helper requires every declared hard constraint to have a check, blocks annotated gaps/unknowns, reconciles explicit identities and holds stale/conflicting observations. It **does not** browse, validate the truth/completeness of annotations, calculate salary, or assess natural-language fit. Never describe its exit 0 as proof the jobs are real or suitable. Without Python, apply the same gate manually. Do not mention the helper, Python or preflight in the default shortlist; report preflight status only when the person asks for the detailed records or an audit.
 
 ## Result and human control
 
-Use the shortlist template below for a short, readable response: the most promising suitable leads with direct links and reasons, conditional opportunities with the exact unresolved questions, and separately labelled unverified listings. A suitable lead must pass the existing shortlist gate; changing the label never clears an essential unknown. Give important missing experience and work/pay terms without defaulting to evaluation tables. Briefly explain an empty result. Keep detailed source observations, requirement checks, exclusions and duplicate reasoning available on request in the current working context; do not persist a personal profile or records without instruction. Offer those details rather than displaying technical files by default. Use `worth checking`, not an eligibility guarantee. Include the source check date, material access limits and one simple next step. Never pad a list or soften a hard constraint to manufacture results.
+Use the shortlist template below for a short, readable response: the most promising suitable leads with direct links and reasons, conditional opportunities with the exact unresolved questions, and separately labelled unverified listings. A suitable lead must pass the existing shortlist gate; changing the label never clears an essential unknown. Give important missing experience and work/pay terms without defaulting to evaluation tables. Briefly explain an empty result. Keep detailed source observations, requirement checks, exclusions and duplicate reasoning available on request in the current working context; do not persist a personal profile or records without instruction. Offer those details rather than displaying technical files by default. Use `worth checking`, not an eligibility guarantee. Include the source check date, material access limits and one simple next step. Never pad a list or soften a hard constraint to manufacture results. Once a job fails a hard constraint, do not suggest applying, or call it worth a look, on condition that the person relaxes that constraint. If you think a limit may not be firm, ask whether it is, without recommending the job.
 
 Explain browsing limitations at the start in ordinary language, for example: "I cannot check current employer pages in this host. I can assess descriptions or links you share, but cannot confirm live openings." If only some pages fail, label those listings unverified. If browsing cannot inspect the original page, return unverified leads or assess supplied descriptions without claiming live discovery. Recheck source status on each new search session; a past observation does not prove an opening today. A person decides whether to apply. Never apply, message employers, create alerts, buy access, change a tracker or install a schedule without separate user instruction.
 
