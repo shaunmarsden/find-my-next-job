@@ -41,7 +41,9 @@ Here is [an example reply](examples/first-interaction.md) for a made-up jobseeke
 
 ## What I have tested
 
-I pasted the skill into a chat with two made-up jobseekers and eleven made-up adverts, some with traps, and compared it with asking the same question with no skill. With the skill as it is here, 33 of 33 adverts were sorted correctly and all six replies came back in the shape above. Without it, 29 of 33 were right: on one jobseeker, every reply invited them to apply for a job below the pay they had said they needed. The full test, its limits and every reply are in [evidence/paste-test](evidence/paste-test/results.md).
+I pasted the skill into a chat with two made-up jobseekers and eleven made-up adverts, some with traps, and compared it with asking the same question with no skill. With version 2.1.0 of the skill, 33 of 33 adverts were sorted correctly and all six replies came back in the shape above. Without it, 29 of 33 were right: on one jobseeker, every reply invited them to apply for a job below the pay they had said they needed. The full test, its limits and every reply are in [evidence/paste-test](evidence/paste-test/results.md).
+
+The skill sometimes made the same slip, less often, so version 2.2.0 tells it to ask whether a limit is firm instead of suggesting you relax it. It also stops it mentioning an "automated check" that can't run in a chat. In a second test with the same jobseekers, 2.2.0 sorted 48 of 48 adverts correctly against 45 of 48 for 2.1.0, and never suggested relaxing a limit. See [evidence/combined-test](evidence/combined-test/results.md).
 
 It is a small test that I designed and scored. It does not show that the skill helps anyone find a job faster or get more interviews, and I make no such claim. Live web search, reading a CV and longer conversations are not tested.
 
