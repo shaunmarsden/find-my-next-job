@@ -1,0 +1,51 @@
+Checked: 29 October 2026. I didn't open any of the six links. I checked the adverts you pasted against what you told me about your work. These are not confirmed live openings, so check each one is still open before you apply.
+
+### Suitable leads: worth checking
+
+- **Brindle & Oak Interiors: Order Coordinator**, https://careers.brindleandoak.example/jobs/1142. Trafford Park, Manchester, in the office Monday to Friday, 37.5 hours a week, £28,000 to £30,000 a year. Even the bottom of the range is above your £27,000.
+  **Why it may suit you:** your experience covers all three essentials. You've spent four years coordinating orders and stock, you keep the stock spreadsheets in Excel with VLOOKUPs and pivot tables, and you answer customer emails about orders and returns.
+  **Before applying:** they'd like experience with a warehouse management system. You didn't mention one. If your warehouse uses any stock or order system besides Excel, name it in your application. If it doesn't, this is only a "desirable" gap, so it shouldn't stop you applying. Also check whether £28,000 to £30,000 is basic salary and where in the range they'd start you.
+
+### Conditional opportunities
+
+- **Kestrel Home: Customer Experience Advisor**, https://kestrelhome.example/jobs/cx-advisor. Remote within the UK and full-time, which fits. You easily meet the first essential, a year of handling customer queries by email, because you've done it for four years, and the homewares background they'd like is exactly yours. Two things are open:
+  1. The salary only says "competitive", so I can't tell whether it reaches £27,000. Ask before you put time into an application.
+  2. They need experience with Zendesk or a similar ticketing system. You didn't mention one. If your customer emails come through a shared inbox or helpdesk tool, tell me what it's called and I'll say whether it's likely to count. If you only use an ordinary email inbox, you probably don't meet this essential yet.
+
+### Unverified listings
+
+- **Halden Group: Operations Assistant**, https://www.jobsboard.example/listing/88213. You only saw a short jobs-board listing, and the employer's own page wouldn't load, so we don't know whether the job is still open, what the hours are, or what it requires. The location (Manchester) and pay (£27,000 to £29,000) fit. Before spending time on it, find the advert on Halden Group's own careers page and check that it's full-time and what the essential requirements are.
+
+### Not worth applying for
+
+- **Northgate Parcel Solutions: Warehouse Team Leader.** A counterbalance forklift licence is essential, and you don't have one. You'd also be on rotating shifts including nights.
+- **Larkfield Logistics: Stock Control Administrator.** It's on site in Leeds five days a week, outside Manchester and not remote.
+- **Pennine Supplies: Inventory Planner.** It's 22.5 hours a week, not full-time. The £31,000 is what the job would pay at 37.5 hours, so for 22.5 hours you'd actually get about £18,600 a year, well under your £27,000.
+
+### Detailed checks
+
+Your hard requirements: full-time; Manchester or fully remote within the UK; at least £27,000 a year. Right to work in the UK is confirmed, and none of the adverts raises it.
+
+| Advert | Full-time | Location | £27,000+ | Essentials against your experience | Result |
+|---|---|---|---|---|---|
+| 1 Brindle & Oak | Yes, 37.5 hrs | Yes, Trafford Park, office-based | Yes, £28k to £30k | Order/stock coordination: met. Excel: met. Written customer communication: met. Warehouse management system (desirable): not mentioned | Worth checking |
+| 2 Northgate | Yes, 40 hrs, includes nights | Yes, Salford | Yes, £29.5k | Forklift licence: you don't have one. Leading a warehouse team: partly met (you plan rotas for six, but you didn't say you manage them) | Excluded: missing an essential |
+| 3 Kestrel Home | Yes | Yes, remote within the UK | Not known, "competitive" | Email customer queries for a year or more: met (four years). Zendesk or similar: not mentioned | Conditional |
+| 4 Larkfield | Yes | No, Leeds on site | Yes, £30k | Advanced Excel: probably met. Stock counts and reconciliations: not mentioned | Excluded: location |
+| 5 Pennine | No, 22.5 hrs | Yes, remote within the UK | No, about £18.6k actual pay | Planning stock levels: partly met. Strong Excel: met | Excluded: hours and pay |
+| 6 Halden | Not known | Yes, Manchester | Yes, £27k to £29k on the listing | Not known: only a short listing | Unverified |
+
+The full-time, location and pay columns rule a job out on any "No". An essential requirement you clearly don't have also rules a job out. An essential I can't confirm from what you've told me puts the job under "Conditional" rather than on the shortlist.
+
+### Exactly how I checked
+
+- I only read the adverts you pasted. I didn't open the links or search for these jobs, so I haven't confirmed that any of them is real or still open, or that the details match the employers' own pages.
+- I compared each advert with your three hard requirements first. Then I took each essential requirement in turn and looked for matching experience in what you told me. I marked each one as met, partly met, not mentioned, or something you don't have.
+- I counted things you didn't mention as unknown, not as gaps you definitely have. The degree, forklift licence and SQL you told me you don't have were the only definite gaps.
+- For pay, I used the stated annual figure. Pennine's figure is for 37.5 hours, so I scaled it down to the 22.5 hours the job offers. Where the advert gave a range, I compared the lowest figure with your £27,000, because the top of a range isn't guaranteed.
+- I didn't run my automated preflight check. I applied the same rules by hand. That check only catches gaps in how the job records are filled in. It wouldn't prove that the jobs are real or that they'd suit you.
+- I haven't saved your details or these results anywhere, and I haven't contacted any employer.
+
+### Next step
+
+Apply to Brindle & Oak first. It's the only one that clearly meets everything you need. For Kestrel Home, message them or check the full advert to ask the salary. Tell me whether your customer emails come through any helpdesk or ticketing tool, and I'll say whether that role is worth going for. Whether to apply is your decision.
