@@ -1,0 +1,122 @@
+{
+ "m199364": {
+  "scenario": "school-office",
+  "arm": "combined",
+  "run": 5
+ },
+ "m173226": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 2
+ },
+ "m927793": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 1
+ },
+ "m143465": {
+  "scenario": "warehouse",
+  "arm": "combined",
+  "run": 3
+ },
+ "m647433": {
+  "scenario": "warehouse-detail",
+  "arm": "current",
+  "run": 1
+ },
+ "m837027": {
+  "scenario": "warehouse",
+  "arm": "current",
+  "run": 1
+ },
+ "m115176": {
+  "scenario": "school-office",
+  "arm": "combined",
+  "run": 4
+ },
+ "m592570": {
+  "scenario": "school-office",
+  "arm": "combined",
+  "run": 2
+ },
+ "m329533": {
+  "scenario": "warehouse",
+  "arm": "current",
+  "run": 2
+ },
+ "m625993": {
+  "scenario": "warehouse-detail",
+  "arm": "combined",
+  "run": 2
+ },
+ "m113762": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 4
+ },
+ "m932436": {
+  "scenario": "warehouse",
+  "arm": "combined",
+  "run": 2
+ },
+ "m290615": {
+  "scenario": "school-office",
+  "arm": "combined",
+  "run": 6
+ },
+ "m524217": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 5
+ },
+ "m890845": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 6
+ },
+ "m789809": {
+  "scenario": "school-office",
+  "arm": "current",
+  "run": 3
+ },
+ "m238185": {
+  "scenario": "warehouse-detail",
+  "arm": "combined",
+  "run": 3
+ },
+ "m200788": {
+  "scenario": "warehouse",
+  "arm": "current",
+  "run": 3
+ },
+ "m567982": {
+  "scenario": "school-office",
+  "arm": "combined",
+  "run": 1
+ },
+ "m983336": {
+  "scenario": "warehouse-detail",
+  "arm": "current",
+  "run": 3
+ },
+ "m899849": {
+  "scenario": "warehouse",
+  "arm": "combined",
+  "run": 1
+ },
+ "m853187": {
+  "scenario": "warehouse-detail",
+  "arm": "combined",
+  "run": 1
+ },
+ "m444449": {
+  "scenario": "school-office",
+  "arm": "combined",
+  "run": 3
+ },
+ "m187360": {
+  "scenario": "warehouse-detail",
+  "arm": "current",
+  "run": 2
+ }
+}
