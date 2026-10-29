@@ -1,0 +1,416 @@
+{
+ "m113762": {
+  "scenario": "school-office",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m115176": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m173226": {
+  "scenario": "school-office",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m199364": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m290615": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m444449": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m524217": {
+  "scenario": "school-office",
+  "checker": 1,
+  "sort": [
+   0,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 1,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m567982": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m592570": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m789809": {
+  "scenario": "school-office",
+  "checker": 1,
+  "sort": [
+   0,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 1,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m890845": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   0,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 1,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m927793": {
+  "scenario": "school-office",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m143465": {
+  "scenario": "warehouse",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m200788": {
+  "scenario": "warehouse",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m329533": {
+  "scenario": "warehouse",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m837027": {
+  "scenario": "warehouse",
+  "checker": 1,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m899849": {
+  "scenario": "warehouse",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m932436": {
+  "scenario": "warehouse",
+  "checker": 0,
+  "sort": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "relax": 0,
+  "shape": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "F": 0
+ },
+ "m187360": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "m238185": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "m625993": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "m647433": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "m853187": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ },
+ "m983336": {
+  "scenario": "warehouse-detail",
+  "how": 1,
+  "checker": 1
+ }
+}

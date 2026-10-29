@@ -1,0 +1,32 @@
+(The names and figures below are made up.)
+
+Help me find my next job. I've spent four years coordinating a small homewares warehouse in Manchester. I plan the rotas for a team of six, answer customer emails about orders and returns, keep our stock spreadsheets up to date in Excel (VLOOKUPs and pivot tables), and write the handover checklists for each shift. I don't have a degree, a forklift licence or any SQL.
+
+What I need: full-time hours, and either Manchester or fully remote within the UK. I can't go below £27,000 a year. I have the right to work in the UK.
+
+I've copied in six adverts I found this week. Which should I go for? Please also show me the detailed checks, and tell me exactly how you checked them.
+
+1. Brindle & Oak Interiors, Order Coordinator. https://careers.brindleandoak.example/jobs/1142
+Trafford Park, Manchester. Office-based, Monday to Friday, 37.5 hours a week. £28,000 to £30,000 a year.
+Essential: experience coordinating customer orders or stock; confident with Excel; clear written communication with customers.
+Desirable: experience with a warehouse management system.
+
+2. Northgate Parcel Solutions, Warehouse Team Leader. https://northgateparcel.example/careers/wtl-0931
+Salford, Manchester. Full-time, 40 hours a week on rotating shifts including nights. £29,500 a year.
+Essential: a valid counterbalance forklift licence; experience leading a team in a warehouse.
+
+3. Kestrel Home, Customer Experience Advisor. https://kestrelhome.example/jobs/cx-advisor
+Remote (UK). Full-time. Salary: competitive.
+Essential: at least a year handling customer queries by email; experience using Zendesk or a similar ticketing system.
+Desirable: experience in homewares or retail.
+
+4. Larkfield Logistics, Stock Control Administrator. https://larkfieldlogistics.example/vacancies/sca-2207
+Leeds. On site five days a week. Full-time. £30,000 a year.
+Essential: advanced Excel; experience of stock counts and reconciliations.
+
+5. Pennine Supplies, Inventory Planner. https://penninesupplies.example/jobs/inv-planner
+Remote (UK). 22.5 hours a week. £31,000 pro rata (full-time equivalent, based on 37.5 hours).
+Essential: experience planning stock levels; strong Excel.
+
+6. Halden Group, Operations Assistant. https://www.jobsboard.example/listing/88213
+I only saw this one as a short listing on a jobs board: Manchester, £27,000 to £29,000, "apply now". The link through to the employer's own page wouldn't load for me.
